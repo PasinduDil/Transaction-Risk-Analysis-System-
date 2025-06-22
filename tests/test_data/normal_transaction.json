@@ -1,0 +1,21 @@
+{
+    "transaction_id": "tx_normal_123",
+    "timestamp": "2023-12-01T10:30:00Z",
+    "amount": 99.99,
+    "currency": "USD",
+    "customer": {
+        "id": "cust_normal_123",
+        "country": "US",
+        "ip_address": "192.168.1.1"
+    },
+    "payment_method": {
+        "type": "credit_card",
+        "last_four": "4242",
+        "country_of_issue": "US"
+    },
+    "merchant": {
+        "id": "merch_normal_123",
+        "name": "Regular Store",
+        "category": "retail"
+    }
+}

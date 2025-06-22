@@ -1,0 +1,21 @@
+{
+    "transaction_id": "tx_high_risk_123",
+    "timestamp": "2023-12-01T03:15:00Z",
+    "amount": 9999.99,
+    "currency": "USD",
+    "customer": {
+        "id": "cust_high_risk_123",
+        "country": "RU",
+        "ip_address": "203.0.113.1"
+    },
+    "payment_method": {
+        "type": "credit_card",
+        "last_four": "9999",
+        "country_of_issue": "CA"
+    },
+    "merchant": {
+        "id": "merch_high_risk_123",
+        "name": "Luxury Goods Store",
+        "category": "jewelry"
+    }
+}

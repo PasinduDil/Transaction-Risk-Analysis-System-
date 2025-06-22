@@ -1,0 +1,21 @@
+{
+    "transaction_id": "tx_invalid_123",
+    "timestamp": "2025-12-01T14:45:00Z",
+    "amount": -50.00,
+    "currency": "INVALID",
+    "customer": {
+        "id": "cust_invalid_123",
+        "country": "INVALID",
+        "ip_address": "invalid.ip.address"
+    },
+    "payment_method": {
+        "type": "",
+        "last_four": "12",
+        "country_of_issue": ""
+    },
+    "merchant": {
+        "id": "merch_invalid_123",
+        "name": "",
+        "category": ""
+    }
+}

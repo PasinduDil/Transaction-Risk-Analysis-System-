@@ -1,0 +1,21 @@
+{
+    "transaction_id": "tx_cross_border_123",
+    "timestamp": "2023-12-01T14:45:00Z",
+    "amount": 299.99,
+    "currency": "USD",
+    "customer": {
+        "id": "cust_cross_border_123",
+        "country": "US",
+        "ip_address": "192.168.1.1"
+    },
+    "payment_method": {
+        "type": "credit_card",
+        "last_four": "8888",
+        "country_of_issue": "GB"
+    },
+    "merchant": {
+        "id": "merch_cross_border_123",
+        "name": "International Shop",
+        "category": "electronics"
+    }
+}
